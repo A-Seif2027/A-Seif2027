@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="left">🧠 Languages:</h3>
+<h3 align="left">💻 Languages:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python"/>
 </p>
