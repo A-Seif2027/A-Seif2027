@@ -38,19 +38,19 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python"/>
 </p>
 
-<h3 align="left">🚀 Frameworks & Libraries:</h3>
+<h3 align="left">🧱 Frameworks & Libraries:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,sequelize,mongoose"/>
 </p>
 
-<h3 align="left">🗃️ Databases:</h3>
+<h3 align="left">🗄️ Databases:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,redis"/>
 </p>
 
-<h3 align="left">🛠️ DevOps & Tools:</h3>
+<h3 align="left">⚙️ DevOps & Tools:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postman,git"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postman,git,npm"/>
 </p>
 
 <p align="left">
