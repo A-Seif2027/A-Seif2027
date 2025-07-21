@@ -1,6 +1,11 @@
 <h1 align="center">I'm Abdelrahman Seif</h1>
 
 <h2 align="center">Software Engineer | Node.js Developer</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-seif&style=flat&color=0e75b6" alt="Profile Views" />
+</p>
+
 <br>
 
 <p align="center">
@@ -22,12 +27,30 @@
   </a>&nbsp;
   <a href="https://wa.me/201002105765">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45"/>
+  </a>&nbsp;
+  <a href="mailto:abdelrahmanseif99@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45"/>
   </a>
 </p>
 
-<h3 align="left">🛠 Languages & Tools:</h3>
+<h3 align="left">🧠 Languages:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,ts,python,docker,mysql,mongodb,redis,express,nestjs,sequelize,mongoose,postman,git"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python"/>
+</p>
+
+<h3 align="left">🚀 Frameworks & Libraries:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,sequelize,mongoose"/>
+</p>
+
+<h3 align="left">🗃️ Databases:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,redis"/>
+</p>
+
+<h3 align="left">🛠️ DevOps & Tools:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postman,git"/>
 </p>
 
 <p align="left">
