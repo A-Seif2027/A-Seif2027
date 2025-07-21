@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h3 align="left">📤 Connect with Me:</h3>
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-saif-09090b2ab/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
@@ -38,17 +38,17 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python"/>
 </p>
 
-<h3 align="left">🧱 Frameworks & Libraries:</h3>
+<h3 align="left">🚀 Frameworks & Libraries:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,sequelize,mongoose"/>
 </p>
 
-<h3 align="left">🗄️ Databases:</h3>
+<h3 align="left">🗃️ Databases:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,redis"/>
 </p>
 
-<h3 align="left">⚙️ DevOps & Tools:</h3>
+<h3 align="left">🛠️ DevOps & Tools:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,postman,git,npm"/>
 </p>
